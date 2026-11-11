@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\abeis\OneDrive\Documents\Coe-328\simulation\qsim
+vP1
+Z1 !s100 m^4XeVk2_1n?X8JN4AhXY2
+Z2 IJ:Z=A:3Ug6Wa?hmV<?_Xz1
+Z3 VBmEMFO?V=[TS1kR]hjkN<0
+Z4 dC:\Users\abeis\OneDrive\Documents\Coe-328\simulation\qsim
+Z5 w1758124768
+Z6 8P1.vo
+Z7 FP1.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|P1.vo|
+Z10 o-work work -O0
+n@p1
+!i10b 1
+!s85 0
+Z11 !s108 1758124769.417000
+Z12 !s107 P1.vo|
+!s101 -O0
+vP1_vlg_check_tst
+!i10b 1
+Z13 !s100 Z=@b_Q?a54C^SoJ]G@f]K3
+Z14 ISMR02S>D`I=8UM^@a]C4o0
+Z15 VVcn_Uc;<ek]4JLih:RQD`2
+R4
+R5
+Z16 8P1.vt
+Z17 FP1.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z18 !s108 1758124769.525000
+Z19 !s107 P1.vt|
+Z20 !s90 -work|work|P1.vt|
+!s101 -O0
+R10
+Z21 n@p1_vlg_check_tst
+vP1_vlg_sample_tst
+!i10b 1
+Z22 !s100 b;FPC:B?1fGhNHMS876K^3
+Z23 Io7edo;:0R@L:ggcU5:Wf<3
+Z24 VVEMod<PU2KdzA7Eggad^23
+R4
+R5
+R16
+R17
+L0 29
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z25 n@p1_vlg_sample_tst
+vP1_vlg_vec_tst
+!i10b 1
+Z26 !s100 A^Z9T<;IZPbX;TndICXkA1
+Z27 I>CMW<C6;`ZV<?G7JNNCXH2
+Z28 VNVPid1K8F=X9kme7ZZW>90
+R4
+R5
+R16
+R17
+Z29 L0 156
+R8
+r1
+!s85 0
+31
+R18
+R19
+R20
+!s101 -O0
+R10
+Z30 n@p1_vlg_vec_tst

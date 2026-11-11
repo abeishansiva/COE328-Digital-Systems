@@ -1,0 +1,150 @@
+$comment
+	File created using the following command:
+		vcd file coe328_lab2.msim.vcd -direction
+$end
+$date
+	Wed Sep 24 12:47:43 2025
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module Simulation_vlg_vec_tst $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var reg 1 # C $end
+$var reg 1 $ D $end
+$var wire 1 % f $end
+$var wire 1 & sampler $end
+$scope module i1 $end
+$var wire 1 ' gnd $end
+$var wire 1 ( vcc $end
+$var wire 1 ) unknown $end
+$var tri1 1 * devclrn $end
+$var tri1 1 + devpor $end
+$var tri1 1 , devoe $end
+$var wire 1 - A~combout $end
+$var wire 1 . B~combout $end
+$var wire 1 / D~combout $end
+$var wire 1 0 C~combout $end
+$var wire 1 1 inst7~0_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+x&
+0'
+1(
+x)
+1*
+1+
+1,
+0-
+0.
+0/
+00
+01
+$end
+#10000
+1$
+1/
+0&
+#20000
+1#
+0$
+10
+0/
+1&
+#30000
+1$
+1/
+0&
+#40000
+1"
+0#
+0$
+1.
+00
+0/
+1&
+#50000
+1$
+1/
+0&
+#60000
+1#
+0$
+10
+0/
+1&
+11
+1%
+#70000
+1$
+1/
+0&
+#80000
+1!
+0"
+0#
+0$
+1-
+0.
+00
+0/
+1&
+#90000
+1$
+1/
+0&
+#100000
+1#
+0$
+10
+0/
+1&
+#110000
+1$
+1/
+0&
+01
+0%
+#120000
+1"
+0#
+0$
+1.
+00
+0/
+1&
+11
+1%
+#130000
+1$
+1/
+0&
+01
+0%
+#140000
+1#
+0$
+10
+0/
+1&
+11
+1%
+#150000
+1$
+1/
+0&
+01
+0%
+#160000

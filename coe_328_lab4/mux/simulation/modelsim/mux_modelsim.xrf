@@ -1,0 +1,14 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/abeis/OneDrive/Documents/coe_328_lab4/mux/mux.vhd
+source_file = 1, C:/Users/abeis/OneDrive/Documents/coe_328_lab4/mux/Waveform.vwf
+source_file = 1, C:/Users/abeis/OneDrive/Documents/coe_328_lab4/mux/db/mux.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = mux
+instance = comp, \s~I , s, mux, 1
+instance = comp, \w1~I , w1, mux, 1
+instance = comp, \w0~I , w0, mux, 1
+instance = comp, \f~0 , f~0, mux, 1
+instance = comp, \f~I , f, mux, 1

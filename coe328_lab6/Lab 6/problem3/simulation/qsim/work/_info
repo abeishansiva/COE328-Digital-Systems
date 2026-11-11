@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\abeis\Downloads\Lab 6\Lab 6\problem3\simulation\qsim
+vALU3
+Z1 !s100 nK25J3S805?9_N@<fQ_Km0
+Z2 IWJ`^XQ241b9T<<Hf[ESZl2
+Z3 VYd0XYB:g@fm?kYTQ_P<;h3
+Z4 dC:\Users\abeis\Downloads\Lab 6\Lab 6\problem3\simulation\qsim
+Z5 w1764172798
+Z6 8problem3.vo
+Z7 Fproblem3.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|problem3.vo|
+Z10 o-work work -O0
+Z11 n@a@l@u3
+Z12 !s108 1764172799.119000
+Z13 !s107 problem3.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vALU3_vlg_check_tst
+Z14 !s100 :V7CkLIQaQ]<F2<jSz5XS1
+Z15 IZz]0P7Szf1mh0Ngg@TX?o1
+Z16 V6X1Hng9Fb3SeZH`VUT?aF0
+R4
+R5
+Z17 8problem3.vt
+Z18 Fproblem3.vt
+L0 67
+R8
+r1
+31
+Z19 !s108 1764172799.200000
+Z20 !s107 problem3.vt|
+Z21 !s90 -work|work|problem3.vt|
+R10
+Z22 n@a@l@u3_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vALU3_vlg_sample_tst
+Z23 !s100 MT<DR?i_jTgW=F@lXKLCW0
+Z24 IJDhQ=3YjR]f6f8L4^Qj2A2
+Z25 V_?PH=VG0AGPRn]40_zNo40
+R4
+R5
+R17
+R18
+L0 29
+R8
+r1
+31
+R19
+R20
+R21
+R10
+Z26 n@a@l@u3_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vALU3_vlg_vec_tst
+Z27 IIjN6D;_?da57nBfN9hWRX3
+Z28 VfJYaQ_ma6LRYE@PQ?lF3[0
+R4
+R5
+R17
+R18
+Z29 L0 215
+R8
+r1
+31
+R19
+R20
+R21
+R10
+Z30 n@a@l@u3_vlg_vec_tst
+Z31 !s100 45KWKE@]:H0iQ_;6N[<HE0
+!i10b 1
+!s85 0
+!s101 -O0
+vproblem3
+Z32 IR5WW4IOiO?@W>E@K6Z>jm2
+Z33 VABiEV2N_hjQd:EaNzhM9F1
+R4
+Z34 w1764173605
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+!i10b 1
+Z35 !s100 4=kfleZT[CnSM?mG@:3R:0
+!s85 0
+Z36 !s108 1764173606.206000
+R13
+!s101 -O0
+vproblem3_vlg_check_tst
+!i10b 1
+!s100 =5J4Wd_YzN1n@b4j;e9i03
+IoEYGB^NiK<mV^XYB2<:GR0
+Z37 Vfbj>ZH7nDT?9=KU1R8`jI1
+R4
+R34
+R17
+R18
+L0 73
+R8
+r1
+!s85 0
+31
+Z38 !s108 1764173606.301000
+Z39 !s107 problem3.vt|
+R21
+!s101 -O0
+R10
+vproblem3_vlg_sample_tst
+!i10b 1
+!s100 c80daeTfAj?2:JLVZEieA2
+I^DkdnXV9`i4gTeHoVzgK<0
+VG^Nd2:[VAMW2XWWE[5Ndg2
+R4
+R34
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R38
+R39
+R21
+!s101 -O0
+R10
+vproblem3_vlg_vec_tst
+!i10b 1
+!s100 oOz6ZF1lk9ccn@OlZPS6C1
+IM;b[6`McoGlmgO5ikIVo?1
+Z40 Vhm[Iaf_4LjJ7Y>1@j99aW0
+R4
+R34
+R17
+R18
+L0 865
+R8
+r1
+!s85 0
+31
+R38
+R39
+R21
+!s101 -O0
+R10

@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/abeis/OneDrive/Documents/coe328_lab2/coe328_lab2.bdf
+source_file = 1, C:/Users/abeis/OneDrive/Documents/coe328_lab2/Simulation.bdf
+source_file = 1, C:/Users/abeis/OneDrive/Documents/coe328_lab2/Waveform.vwf
+source_file = 1, C:/Users/abeis/OneDrive/Documents/coe328_lab2/db/coe328_lab2.cbx.xml
+design_name = Simulation
+instance = comp, \A~I , A, Simulation, 1
+instance = comp, \B~I , B, Simulation, 1
+instance = comp, \D~I , D, Simulation, 1
+instance = comp, \C~I , C, Simulation, 1
+instance = comp, \inst7~0 , inst7~0, Simulation, 1
+instance = comp, \f~I , f, Simulation, 1

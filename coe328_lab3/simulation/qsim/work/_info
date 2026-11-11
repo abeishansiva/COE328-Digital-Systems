@@ -1,0 +1,165 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\abeis\OneDrive\Documents\coe328_lab3\simulation\qsim
+vASU
+Z1 !s100 E2:gnzPX33UfAXj^kWegi0
+Z2 IW:fHC;U>okPQG]nSTSzhN0
+Z3 V8U;QQooHXDg6`<cHKllQ:0
+Z4 dC:\Users\abeis\OneDrive\Documents\coe328_lab3\simulation\qsim
+Z5 w1759860914
+Z6 8lab3.vo
+Z7 Flab3.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|lab3.vo|
+Z10 o-work work -O0
+Z11 n@a@s@u
+!i10b 1
+!s85 0
+Z12 !s108 1759860916.972000
+Z13 !s107 lab3.vo|
+!s101 -O0
+vASU_vlg_check_tst
+!i10b 1
+Z14 !s100 Ii7cd`IIK03:YdiizfmC62
+Z15 IQ@A2V71Ljc7ec6TW5bX>C0
+Z16 VH]cI2iNFb[P>Tlfz[`Sk=3
+R4
+Z17 w1759860913
+Z18 8lab3.vt
+Z19 Flab3.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1759860917.146000
+Z21 !s107 lab3.vt|
+Z22 !s90 -work|work|lab3.vt|
+!s101 -O0
+R10
+Z23 n@a@s@u_vlg_check_tst
+vASU_vlg_sample_tst
+!i10b 1
+Z24 !s100 0V`I1QFVo9]@SS<NkiZKU3
+Z25 ITSYFM77>Hh5ZVUIlnHLLF3
+Z26 VM?of^BmA0=cU@Oba96noZ3
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@a@s@u_vlg_sample_tst
+vASU_vlg_vec_tst
+!i10b 1
+Z28 !s100 @l^eMg6z@35FOd<>@0YnV3
+Z29 IeRZnan61o=zaCT@D:>?8i0
+Z30 VkCnI=7VY1Q;XXAnBMJzL82
+R4
+R17
+R18
+R19
+Z31 L0 245
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z32 n@a@s@u_vlg_vec_tst
+vCombinedASU1
+Z33 IBAaeiXT>JHS[HaR;2Tzba0
+Z34 V[C1L80`bfcDFoBMe^R]1T2
+R4
+Z35 w1759339867
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z36 n@combined@a@s@u1
+Z37 !s100 EC:XKzz[cJLYNB^eMCgOE1
+Z38 !s108 1759339868.266000
+R13
+!i10b 1
+!s85 0
+!s101 -O0
+vCombinedASU1_vlg_check_tst
+Z39 ITRQZNa6c?^KlHh8GUa[>^0
+Z40 V@Eb[=CFgke4]Vmnb7GOmR3
+R4
+R35
+R18
+R19
+L0 61
+R8
+r1
+31
+Z41 !s108 1759339868.359000
+Z42 !s107 lab3.vt|
+R22
+R10
+Z43 n@combined@a@s@u1_vlg_check_tst
+Z44 !s100 gPadz2F4JYF]3`7gbo_Zi1
+!i10b 1
+!s85 0
+!s101 -O0
+vCombinedASU1_vlg_sample_tst
+Z45 IH8=m`h=><d0SZE9[B<48a2
+Z46 VnI<ZAe=AJ[]JZ32=eI[iE3
+R4
+R35
+R18
+R19
+L0 29
+R8
+r1
+31
+R41
+R42
+R22
+R10
+Z47 n@combined@a@s@u1_vlg_sample_tst
+Z48 !s100 hLc6?cH<jP@7WiUo[2SbN1
+!i10b 1
+!s85 0
+!s101 -O0
+vCombinedASU1_vlg_vec_tst
+Z49 ITD9?FD`3oXO@nObSAdg:_2
+Z50 Vzbng@F9D;K^Xji?1?c:;j2
+R4
+R35
+R18
+R19
+Z51 L0 166
+R8
+r1
+31
+R41
+R42
+R22
+R10
+Z52 n@combined@a@s@u1_vlg_vec_tst
+Z53 !s100 n0MU^Hk<gX>om88V5D4_n0
+!i10b 1
+!s85 0
+!s101 -O0

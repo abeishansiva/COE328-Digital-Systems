@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\abeis\OneDrive\Documents\coe_328_lab4\johns\simulation\qsim
+vjohns
+Z1 !s100 Gg1i0HA9lnAQOP1aZO=822
+Z2 I3S>LIZz1jiIh@Vn0W0z]62
+Z3 V:ZKN1[2R0<M[b:`de?SeX3
+Z4 dC:\Users\abeis\OneDrive\Documents\coe_328_lab4\johns\simulation\qsim
+Z5 w1761153208
+Z6 8johns.vo
+Z7 Fjohns.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|johns.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1761153208.886000
+Z12 !s107 johns.vo|
+!s101 -O0
+vjohns_vlg_check_tst
+!i10b 1
+Z13 !s100 J8Ec0TYCIFbk[J@Ebg^U]2
+Z14 I[DgMda;::f;E>QS_74bSX1
+Z15 VWU0EUc<4KSz=TW_6D0HSf0
+R4
+Z16 w1761153207
+Z17 8johns.vt
+Z18 Fjohns.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1761153209.027000
+Z20 !s107 johns.vt|
+Z21 !s90 -work|work|johns.vt|
+!s101 -O0
+R10
+vjohns_vlg_sample_tst
+!i10b 1
+Z22 !s100 bQlMA=bMzm9nN;H=F?AUA2
+Z23 I7L8Ee[iSiMM9OEz]1_9Hd0
+Z24 VRR2hT2`__dUOkI?P8?SEC2
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vjohns_vlg_vec_tst
+!i10b 1
+!s100 C=FdQS2@CE695T<XYcP4F3
+IXV]7PLXieV6fISL4Nb<QO2
+Z25 VOZkcMH1_3:WzijXfFjl1W1
+R4
+R16
+R17
+R18
+Z26 L0 278
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
